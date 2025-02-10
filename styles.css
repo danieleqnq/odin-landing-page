@@ -143,9 +143,6 @@
   align-items: center;
 }
 
-.quote-margin {
-}
-
 .quote-text {
   font-size: 36px;
   font-style: italic;
@@ -156,7 +153,7 @@
 
 .author {
   align-self: flex-end;
-  margin: 0px 500px;
+  margin: 20px 500px;
   font-size: 25px;
   font-weight: 600;
   color: #1f2937;
